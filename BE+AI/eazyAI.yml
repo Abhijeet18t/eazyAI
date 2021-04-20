@@ -1,0 +1,6 @@
+name: eazyAI
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+prefix: C:\Users\Abhijeet\anaconda3\envs\eazyAI
